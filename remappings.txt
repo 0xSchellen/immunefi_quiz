@@ -1,2 +1,4 @@
 forge-std/=lib/forge-std/src/
 openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+
+git remote add my_awesome_new_remote_repo git@git.assembla.com:portfolio/space.space_name.git
